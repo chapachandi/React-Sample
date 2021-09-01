@@ -1,0 +1,14 @@
+[
+    {
+        "id":1,
+        "cusName": "Chapa",
+        "cusAddress": "Galle",
+        "cusSalary": 10000
+    },
+    {
+        "id":2,
+        "cusName": "Chapa",
+        "cusAddress": "Galle",
+        "cusSalary": 10000
+    }
+]

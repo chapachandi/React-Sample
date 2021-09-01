@@ -1,0 +1,117 @@
+#navdetails{
+    display: flex;
+    flex-direction: row;
+    list-style-type:none;
+}
+
+#navdetails li{
+    position: relative;
+    padding-left: 34px;
+    cursor: pointer;
+   
+}
+li:hover {
+    color: yellow;
+}
+
+#log{
+    display: flex;
+    flex-direction: row;
+    list-style-type:none;
+    margin-right: 30px;
+}
+
+#log li{
+    position: relative;
+    padding-left: 20px;
+
+}
+
+#image{
+    position: relative;
+    background-image: url(https://www.kotak.com/content/dam/Kotak/digital-banking/insta-services/kaymall/1440X400-Online-Shopping.jpg);
+    margin: 0;
+    padding: 0;
+    height: 400px;
+    /* width: 300px; */
+
+}
+#page-hedear{
+    color: #404040;
+    position: absolute;
+    top: 152px;
+    left: 45px;
+    font-family: ui-serif;
+    font-size: 45px;
+}
+#page-pr{
+    color: #404040;
+    position: absolute;
+    top: 225px;
+    left: 45px;
+    font-family: ui-serif;
+    font-size: 15px;
+    width: 342px;
+
+}
+.card{
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%);
+    margin: 22px;
+    height: 222px;
+    width: 1310px;
+}
+#form{
+    margin: 17px;
+    height: 30px;
+}
+.MuiFormControl-root.MuiTextField-root {
+    margin: 10px;
+    width: 299px;
+}
+#btn-add-customer{
+    padding: 24px;
+    left: 0;
+    position: relative;
+}
+
+#save-btn{
+    top: -34px;
+    /* right: 0; */
+    left: 10px;
+    position: relative;
+}
+#btn-cancel{
+    top: 0;
+    /* right: 0px; */
+    left: 87px;
+    position: relative;
+}
+.table{
+    position: relative;
+    width:97%;
+    margin: 20px;
+}
+
+#tbl-header{
+    background-color: #049292;
+}
+#hedear{
+    margin-left: 26px;
+    /* margin-top: 15px; */
+    font-size: 30px;
+    font-family: -webkit-pictograph;
+}
+
+#item-tbl{
+    margin: 20px;
+    width: 1311px;
+}
+#tbl-header{
+    color: #fff;
+    background-color: #048e38;
+}
+
+#popup-state{
+    height: 252px;
+    width: 1324px;
+}
